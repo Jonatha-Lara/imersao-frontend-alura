@@ -151,7 +151,6 @@ h1 {
     text-decoration: none;
 }
 
-
 .sidebar .cookies a:hover {
     text-decoration: underline;
 }
@@ -173,7 +172,7 @@ h1 {
     bottom: 0;
     left: 0;
     right: 0;
-    background: linear-gradient(to right, #ae2896, #509bf5);
+    background: linear-gradient(to right, #50fc01, #ff0000);
     padding: 15px 40px;
     display: flex;
     justify-content: space-between;
@@ -206,5 +205,3 @@ h1 {
     cursor: pointer;
     flex-shrink: 0;
 }
-
-
